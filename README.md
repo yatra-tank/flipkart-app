@@ -1,2 +1,2 @@
-# bank-app
-This is a repository for bank app.
+# flipkart-app
+This is a repository for flipkart app.
